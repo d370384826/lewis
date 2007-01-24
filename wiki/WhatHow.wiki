@@ -2,11 +2,11 @@
 #labels Phase-Design,Phase-Requirements
 
   1.  Input a compound (MgO2, NaCl, NH2CONH2, etc)
-  2.  <program> ionic or covalent?
-  3.  <program> figure out what the bonds look like
-  4.  <program> output a string in a notation for the bonds
+2.  <program> ionic or covalent?
+3.  <program> figure out what the bonds look like
+4.  <program> output a string in a notation for the bonds
 
 We also have an notation2image parser
 
   1.  Input the notation
-  2.  <program>Generates an image of a lewis diagram (png, p?m)
+2.  <program>Generates an image of a lewis diagram (png, p?m)
