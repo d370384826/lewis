@@ -10,3 +10,5 @@ We also have an notation2image parser
 
   # Input the notation
   # <program>Generates an image of a lewis diagram (png, p?m)
+
+The program will have both aspects linked
