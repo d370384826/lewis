@@ -7,6 +7,7 @@ int main(int argc, char** argv) {
 	int sumValence = 0;
 	
 	scanf("%s", compound);
+	
 	printf("%s\n", compound);
 
 	return 0;
