@@ -1,15 +1,13 @@
-#labels Phase-Design,Phase-Requirements
-summary What the program is going to do and how.
-#labels Phase-Design,Phase-Requirements
+What the program ~~is going to do and how~~ does, because we never bothered to finish it.
 
-  # Input a compound (MgO2, NaCl, NH2CONH2, etc)
-  # <program> ionic or covalent?
+  # ~~Input a compound (MgO2, NaCl, NH2CONH2, etc)~~
+  # ~~<program> ionic or covalent?~~
   # <program> figure out what the bonds look like
   # <program> output a string in a notation for the bonds
 
 We also have an notation2image parser
 
   # Input the notation
-  # <program>Generates an image of a lewis diagram (png, p?m)
+  # <program>Generates an image of a lewis diagram (png, ~~p?m~~)
 
-The program will have both aspects linked
+The program will have both aspects linked.
