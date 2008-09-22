@@ -1,7 +1,7 @@
 What the program ~~is going to do and how~~ does, because we never bothered to finish it.
 
-  # ~~Input a compound (MgO2, NaCl, NH2CONH2, etc)~~
-  # ~~<program> ionic or covalent?~~
+  # Input a compound ~~(MgO2, NaCl, NH2CONH2, etc)~~
+  # ~~<program> ionic or covalent?~~  Only works with covalent, 2-distinct-element compounds
   # <program> figure out what the bonds look like
   # <program> output a string in a notation for the bonds
 
